@@ -19,5 +19,7 @@ navigation:
   - name: How to contact us
     url: 'http://danielg.com/contact.htm'
     type: external
-title: 'Daniel Greenspan - Electronics, Computers, Systems'
+title: >-
+  Daniel Greenspan - Electronics, Computers, Systems - architecture & design
+  consultancy
 description: architecture & design consultancy
