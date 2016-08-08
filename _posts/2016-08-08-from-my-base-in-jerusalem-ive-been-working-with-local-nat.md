@@ -3,18 +3,17 @@ description: >-
   From my base in Jerusalem, I’ve been working with local, national, and
   international companies to solve the trickiest computing and electronic
   problems - with key insight across design and architecture roles.
-dateModified: '2016-08-08T17:41:41.372Z'
-datePublished: '2016-08-08T17:42:16.356Z'
+dateModified: '2016-08-08T17:42:33.821Z'
+datePublished: '2016-08-08T17:42:35.550Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-08-from-my-base-in-jerusalem-ive-been-working-with-local-nat.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: from-my-base-in-jerusalem-ive-been-working-with-local-nat/index.html
+_type: Blurb
 
 ---
 From my base in Jerusalem, I've been working with local, national, and international companies to solve the trickiest computing and electronic problems - with key insight across design and architecture roles.
