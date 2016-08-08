@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Electronics, Computers, Systems]]></title>
         <description><![CDATA[Electronics, Computers, Systems]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/danielgcom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 17:04:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Aug 2016 17:22:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/danielgcom/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I'm being chased around the internet by a shed | Stuart Heritage]]></title>
+            <description><![CDATA[<article><h1>I'm being chased around the internet by a shed | Stuart Heritage</h1><p>A few weeks ago, I thought about buying a shed. I thought about buying a shed, and it was the most exciting thing I did that day, because I'm a hot-rod rebel and my entire life is a thrill-a-minute joyride of unimaginable debauchery.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0a0221e7db633e614c899da7ea8c8d80/noop.jpg?input=https%3A%2F%2Fi.guim.co.uk%2Fimg%2Fmedia%2F2561194ed285f1dbbcf065b35fb9775b8e6fb304%2F0_129_2736_1642%2F2736.jpg%3Fw%3D1200%26h%3D630%26q%3D55%26auto%3Dformat%26usm%3D12%26fit%3Dcrop%26bm%3Dnormal%26ba%3Dbottom%252Cleft%26blend64%3DaHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n%26s%3D0bf41a4b246e6d5277d436d262eb2250"></article>]]></description>
+            <link>https://www.theguardian.com/commentisfree/2016/jun/14/im-being-chased-around-the-internet-by-a-shed</link>
+            <guid isPermaLink="false">0e940e65-bdd7-45bb-a5b9-15915148535b</guid>
+            <pubDate>Mon, 08 Aug 2016 17:22:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[OPT8241 | 3D Depth Sensing | Optical Sensing | Online datasheet]]></title>
             <description><![CDATA[<article><h1>OPT8241 | 3D Depth Sensing | Optical Sensing | Online datasheet</h1><p>It’s amazing how fast technology moves towards the consumer space… now Lidar (which is basically echo-sensing, but with light) arrives, promising cameras that see depth by measuring the time-of-flight.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/945dcf2641e9cc8135d0b6ac56c8350c99c845f9.gif"></article>]]></description>
