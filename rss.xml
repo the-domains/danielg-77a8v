@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Electronics, Computers, Systems]]></title>
+        <description><![CDATA[Electronics, Computers, Systems]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 08 Aug 2016 17:04:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OPT8241 | 3D Depth Sensing | Optical Sensing | Online datasheet]]></title>
+            <description><![CDATA[<article><h1>OPT8241 | 3D Depth Sensing | Optical Sensing | Online datasheet</h1><p>It’s amazing how fast technology moves towards the consumer space… now Lidar (which is basically echo-sensing, but with light) arrives, promising cameras that see depth by measuring the time-of-flight.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/945dcf2641e9cc8135d0b6ac56c8350c99c845f9.gif"></article>]]></description>
+            <link>http://www.ti.com/product/opt8241/datasheet</link>
+            <guid isPermaLink="false">f2cc4aed-acca-4f0e-ac7c-526b6997c5e5</guid>
+            <pubDate>Mon, 08 Aug 2016 17:04:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
