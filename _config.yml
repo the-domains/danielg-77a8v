@@ -1,4 +1,3 @@
-layout_spectrum: 0.21111234137788415
 typography_spectrum: 0.453142196405679
 color:
   brandStrength: 0.1769518565852195
@@ -6,9 +5,16 @@ color:
   saturation: 0.6062385814730078
   rhythmicContrast: 0.4589855393860489
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
+layout_spectrum: 0.21111234137788415
+author:
+  name: Daniel Greenspan
+  email: danielg@danielg.com
 name: DanielG
+title: >-
+  Daniel Greenspan, Electronic design and architecture consultancy, Jerusalem,
+  Israel
