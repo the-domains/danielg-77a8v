@@ -15,5 +15,9 @@ author:
   name: Daniel Greenspan
   email: danielg@danielg.com
 name: Daniel Greenspan
+navigation:
+  - name: How to contact us
+    url: 'http://danielg.com/contact.htm'
+    type: external
 title: 'Electronics, Computers, Systems'
 description: architecture & design consultancy
