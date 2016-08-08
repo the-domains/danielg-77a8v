@@ -17,9 +17,6 @@ author:
 name: Daniel Greenspan
 navigation:
   - name: How to contact us
-    url: 'http://danielg.com/contact.htm'
-    type: external
-  - name: How to contact us
     id: 662abb1a-b415-4ba4-9bfe-4cfd3c5362a8
     type: content
 title: 'Electronics, Computers, Systems'
