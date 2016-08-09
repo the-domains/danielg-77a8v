@@ -4,19 +4,18 @@ description: >-
   entire house as a child, and yes, I did demonstrate the effects of back-EMF
   using fellow pupils. At the age of 15, I was running sound and light rigs,
   organizing video productions, and building my own equipment.
-dateModified: '2016-08-09T05:11:07.399Z'
-datePublished: '2016-08-09T05:11:16.543Z'
+dateModified: '2016-08-09T05:12:27.606Z'
+datePublished: '2016-08-09T05:12:28.217Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-09-the-stories-you-have-heard-are-probably-true-yes-i-did-man.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: the-stories-you-have-heard-are-probably-true-yes-i-did-man/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d3e0033-dbc6-44b0-bc4d-b7b7577a5be9.jpg)
