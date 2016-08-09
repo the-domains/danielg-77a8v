@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-08T18:01:18.473Z'
+datePublished: '2016-08-09T05:08:34.503Z'
 sourcePath: _posts/2016-08-08-ai-websites-that-design-themselves.md
 isBasedOnUrl: 'https://thegrid.io/'
 keywords:
@@ -19,7 +19,7 @@ author:
     url: 'https://www.youtube.com/user/TheGridio'
     avatar: {}
 via: {}
-dateModified: '2016-08-08T18:00:39.710Z'
+dateModified: '2016-08-09T05:08:33.895Z'
 title: The Grid | AI Websites That Design Themselves
 app_links: []
 publisher: {}
@@ -35,7 +35,7 @@ _type: MediaObject
 ---
 OK. I GET IT!
 
-Instead of having FB, LinkedIn, or Wordpress manage the look-and-feel or my professional field...
+Instead of having FB, LinkedIn, or Wordpress manage the look-and-feel of my professional web presence...
 
 ...and instead of creating the site myself and spending hours working on something that will still look inferior...
 
