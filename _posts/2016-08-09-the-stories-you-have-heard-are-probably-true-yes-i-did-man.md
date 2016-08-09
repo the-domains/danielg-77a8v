@@ -4,8 +4,8 @@ description: >-
   entire house as a child, and yes, I did demonstrate the effects of back-EMF
   using fellow pupils. At the age of 15, I was running sound and light rigs,
   organizing video productions, and building my own equipment.
-dateModified: '2016-08-09T05:12:27.606Z'
-datePublished: '2016-08-09T05:12:28.217Z'
+dateModified: '2016-08-09T14:58:14.933Z'
+datePublished: '2016-08-09T14:58:15.596Z'
 title: ''
 author: []
 publisher: {}
